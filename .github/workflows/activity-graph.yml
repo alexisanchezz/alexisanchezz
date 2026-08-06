@@ -1,0 +1,23 @@
+name: GitHub Activity Graph
+
+on:
+  schedule:
+    # Se ejecuta todos los días a las 00:00 UTC (~19:00 hora Perú)
+    - cron: '0 0 * * *'
+  workflow_dispatch: # permite ejecutarlo manualmente desde la pestaña "Actions"
+
+jobs:
+  build_activity_graph:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - name: Generar gráfico de actividad
+        uses: Ashutosh00710/github-readme-activity-graph@v2.1.0
+        with:
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          username: alexisanchezz
+          theme: redical
+          hide_border: true
+          area: true
+          custom_title: Mi actividad en el último año
