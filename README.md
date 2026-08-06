@@ -35,9 +35,8 @@
 
 ### 📈 Actividad reciente
 
-<!--START_SECTION:activity-->
-<!--END_SECTION:activity-->
-> Esta sección se actualiza sola si activas el workflow **github-readme-activity-graph** (te explico abajo cómo hacerlo).
+<!--START_SECTION:activity-graph-->
+<!--END_SECTION:activity-graph-->
 
 ---
 
