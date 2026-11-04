@@ -22,7 +22,8 @@
 ### 🛠️ Stack & Herramientas
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=js,html,css,react,nodejs,python,mysql,git,github,figma,powerbi,vite,docker,cloudflare,postgres" alt="tech stack"/>
+  <img src="https://skillicons.dev/icons?i=js,html,css,react,nodejs,python,mysql,git,github,figma,vite,docker,cloudflare,postgres" alt="tech stack"/>
+  <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" alt="Power BI"/>
 </p>
 
 ---
