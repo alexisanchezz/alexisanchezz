@@ -22,7 +22,7 @@
 ### 🛠️ Stack & Herramientas
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=js,html,css,react,nodejs,python,mysql,git,github,figma,powerbi" alt="tech stack"/>
+  <img src="https://skillicons.dev/icons?i=js,html,css,react,nodejs,python,mysql,git,github,figma,powerbi,vite,docker,cloudflare,postgres" alt="tech stack"/>
 </p>
 
 ---
